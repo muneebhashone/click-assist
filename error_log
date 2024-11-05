@@ -1,0 +1,10 @@
+[09-Sep-2024 18:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpprint() in /var/cpanel/php/sessions/ea-php81/sess_c6a959303266788a0f4c32bd745a3fc9:1
+Stack trace:
+#0 /home/backendhostingla/public_html/click-assist/src.php(25): include()
+#1 {main}
+  thrown in /var/cpanel/php/sessions/ea-php81/sess_c6a959303266788a0f4c32bd745a3fc9 on line 1
+[09-Sep-2024 18:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpprint() in /var/cpanel/php/sessions/ea-php81/sess_c6a959303266788a0f4c32bd745a3fc9:1
+Stack trace:
+#0 /home/backendhostingla/public_html/click-assist/src.php(25): include()
+#1 {main}
+  thrown in /var/cpanel/php/sessions/ea-php81/sess_c6a959303266788a0f4c32bd745a3fc9 on line 1
